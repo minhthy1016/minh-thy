@@ -42,3 +42,5 @@ state, by the top 10 state's data
 - Suggested time: 2-3 hours
 Open book. You can use the resources available to you except by asking other people.
 
+# Google Spreadsheets Result data and reports link : 
+https://docs.google.com/spreadsheets/d/1Wj6rEm4S5d4wbdrbSgNYOy-NArZhLT6gljH04CA1rFw/edit#gid=317052739

@@ -1,0 +1,17 @@
+name: CopernicusWorkshop_PythonEnv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9,<3.12
+  - mamba
+  - xarray
+  - pandas
+  - matplotlib
+  - cartopy
+  - netcdf4
+  - scipy
+  - ipykernel
+  - pip
+  - pip:
+    - copernicus-marine-client==0.10.0
